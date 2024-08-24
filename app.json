@@ -1,6 +1,6 @@
 {
-  "name": "YourBot",
-  "description": "Javascript WhatsApp bot made by YourName",
+  "name": "OSADA-MD",
+  "description": "Javascript WhatsApp bot made by Osada Chamikara",
   "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
   "keywords": ["bot"],
   "success_url": "/",
