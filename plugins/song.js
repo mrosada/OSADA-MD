@@ -17,12 +17,14 @@ const url = data.url
 
 let desc =`
 
-*--------📁OSADA- MD YOUTUBE------- ____________DOWNLOADER ⬇️___________*\n\n
+*📁DOWNLOADER ⬇️*
 
- *🏷️ Title   -* ${data.title}\n
-*🕐 Time   -* ${data.timestamp}\n
-*🏷️ Ago     -* ${data.ago}\n
-*🧑‍🧑‍🧒‍🧒 Views -* ${data.views}\n\n
+ *🏷️ Title   -* ${data.title}
+*🕐 Time   -* ${data.timestamp}
+*🏷️ Ago     -* ${data.ago}
+*🧑‍🧑‍🧒‍🧒 Views -* ${data.views}
+
+```🎧Downloading Your Song Please wait...```
 
 🔮ᴘᴏᴡᴇʀᴅ ʙʏ *ᴏꜱᴀᴅᴀ-ᴍᴅ*
 
