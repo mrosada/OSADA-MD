@@ -69,9 +69,9 @@ require("./plugins/" + plugin);
 console.log('Plugins installed successful ✅')
 console.log('Bot connected to whatsapp ✅')
 
-let up = `*OSADA MD CONNECTED ✅*\n\n
+let up = `*OSADA MD CONNECTED ✅*
 
-📎 *Github :* https://github.com/mrosada/OSADA-MD\n\n
+📎 *Github :* https://github.com/mrosada/OSADA-MD
 
 📎 *Web :* https://mr-osada.vercel.app/`;
 
