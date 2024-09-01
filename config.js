@@ -9,4 +9,5 @@ SESSION_ID: process.env.SESSION_ID || "x70WVY6I#mWAdIg0bvYAQeumHkMk0755eQNLX5Mna
 ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/nsNpzrh/Blue-and-White-Modern-The-Future-Of-Artificial-Intelligence-You-Tube-Thumbnail.png",
 ALIVE_MSG: process.env.ALIVE_MSG || "Hello, I am Alive",
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "false",
+MODE: process.env.MODE || "public",
 };
