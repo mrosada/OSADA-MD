@@ -24,7 +24,7 @@ let desc =`
 *🏷️ Ago     -* ${data.ago}
 *🧑‍🧑‍🧒‍🧒 Views -* ${data.views}
 
-```🎧Downloading Your Song Please wait...```
+*_🎧Downloading Your Song Please wait..._*
 
 🔮ᴘᴏᴡᴇʀᴅ ʙʏ *ᴏꜱᴀᴅᴀ-ᴍᴅ*
 
@@ -43,7 +43,7 @@ await conn.sendMessage(from,{audio:{url:downloadUrl},mimetype:"audio/mpeg"},{quo
     
 }catch(e){
 console.log(e)
-reply("${e}")
+reply(`${e}`)
 }
 })
 
@@ -72,7 +72,7 @@ let desc =`
 *🏷️ Ago    -* ${data.ago}
 *🧑‍🧑‍🧒‍🧒 Views -* ${data.views}
 
-```🎧Downloading Your Video Please wait...```
+*_🎧Downloading Your Video Please wait..._*
 
 🔮ᴘᴏᴡᴇʀᴅ ʙʏ *ᴏꜱᴀᴅᴀ-ᴍᴅ*
 
@@ -91,6 +91,6 @@ await conn.sendMessage(from,{video:{url:downloadUrl},mimetype:"video/mp4"},{quot
 
 }catch(e){
 console.log(e)
-reply("${e}")
+reply(`${e}`)
 }
 })
